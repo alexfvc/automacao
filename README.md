@@ -1,6 +1,10 @@
 # automacao
-Repositório para lancamento automatico de dados no diario escolar.
+Repositório para lancamento automático de dados no diario escolar. diario escolar usado para lancamento de notas
 
+    www.diarioescolardigital.educacao.mg.gov.br/
+
+Diario escolar usado para lancamento de notas, aulas e conteudos pela secretaria de estado e educação do estado de minas gerais.
+Bot criado para Diário Escolar Digital - DED | Versão: 4.3.152.
 O bot transforma o diario escolar digital que atualmente é formado por varios formulário, um para cada dia de aula, em uma planilha de excel.
 É extremamente mais facil lançar os dados necessarios em uma planilha do que em um formulário.
 
@@ -29,8 +33,7 @@ Como usar o Bot:
         Turma	                         Disciplina	                     EtapadaMatrícula	  Bimestre          Data	                  ConteudoLecionado	
         2º EM REG 1 - xxxxx, 888	     (2º) FÍSICA - 2º EM REG 1	     2º	                2º BIMESTRE	      25/05/2022	            física térmica 	
         ^         ^                     ^            ^         ^       ^                  ^                  ^                      ^
-    
-           No exemplo acima seria lançado uma aula no segundo bimestre, dia: 25/05/2022, para a turma: 2° reg 1, com conteudo: física térmica.
+               No exemplo acima seria lançado uma aula no segundo bimestre, dia: 25/05/2022, para a turma: 2° reg 1, com conteudo: física térmica.
      
  
   Rodar o código:
