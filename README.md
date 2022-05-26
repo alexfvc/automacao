@@ -25,7 +25,10 @@ Como usar o Bot:
     
   Instalar o geckodriver:
     deve ser colocado no computador o geckodriver esse arquivo permite que o selenium abra o navegador. (é necessario saber qual versão do navegador será usado)
-        Futuramente pretendo colocar um texto e um zip, para ajudar a instalaçao desse drive, no zip haverá varios drivers para varios navegadores eversoes.
+        Futuramente pretendo colocar um texto e um zip, para ajudar a instalaçao desse drive, no zip haverá varios drivers para varios navegadores e versoes.
+        No link abaixo tem alguns drives necessarios para utilizacao do google chrome.
+        
+        https://chromedriver.chromium.org/home
         
   Atualizar a planilha Diario.xlsx:
     a planilha deve ter os dados na mesma forma que é esperada pelo diário.
