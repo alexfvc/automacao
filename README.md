@@ -3,7 +3,7 @@ Repositório para lancamento automático de dados no diario escolar. diario esco
 
     www.diarioescolardigital.educacao.mg.gov.br/
 
-Diario escolar usado para lancamento de notas, aulas e conteudos pela secretaria de estado e educação do estado de minas gerais.
+Diario escolar usado para lancamento de aulas lecionadas e notas por professores do estado de Minas Gerais, aulas e conteudos pela secretaria de estado e educação do estado de minas gerais.
 Bot criado para Diário Escolar Digital - DED | Versão: 4.3.152.
 O bot transforma o diario escolar digital que atualmente é formado por varios formulário, um para cada dia de aula, em uma planilha de excel.
 É extremamente mais facil lançar os dados necessarios em uma planilha do que em um formulário.
