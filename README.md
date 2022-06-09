@@ -33,9 +33,9 @@ Como usar o Bot:
   Atualizar a planilha Diario.xlsx:
     a planilha deve ter os dados na mesma forma que é esperada pelo diário.
       exemplo:
-        Turma	                         Disciplina	                     EtapadaMatrícula	  Bimestre          Data	                  ConteudoLecionado	
-        2º EM REG 1 - xxxxx, 888	     (2º) FÍSICA - 2º EM REG 1	     2º	                2º BIMESTRE	      25/05/2022	            física térmica 	
-        ^         ^                     ^            ^         ^       ^                  ^                  ^                      ^
+        Turma	                             Disciplina	                     EtapadaMatrícula	  Bimestre          Data	                  ConteudoLecionado	
+        2º EM REG 1 - (NOMEDAESCOLA), 888	 (2º) FÍSICA - 2º EM REG 1	     2º	                2º BIMESTRE	      25/05/2022	            física térmica 	
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
                No exemplo acima seria lançado uma aula no segundo bimestre, dia: 25/05/2022, para a turma: 2° reg 1, com conteudo: física térmica.
      
  
