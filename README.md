@@ -57,6 +57,7 @@ No exemplo acima seria lançado uma aula no segundo bimestre, dia: 25/05/2022, p
 ### Rodando o código:
 
 1* Ao rodar o códido abrirá uma página do navegador no site do diário. voce deve colocar seu login, senha e captcha.
+
 2* Apos completar os campos nao click em entrar, volte ao codigo e responda a pergunta com apenas um s.
 
 * ###### O bot escreverá a seginte frase: *
