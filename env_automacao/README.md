@@ -54,8 +54,10 @@ Como usar o Bot:
       responda com s para novo ensino medio e n para ensino medio 
         (O bot foi criado em 2022 as as turmas de 1° ano estavam no novo ensino medio, turmas de 2° e 3° ainda cumpriam o curriculo antigo.)
       Após responder com s ou n basta esperar. 
-      Ao final aparecerá a mensagem FEITO!!!
-                                                                                     Alex Furtado Vilela Costa
+      Ao final aparecerá a mensagem: FEITO!!!
+                                                                                     
+                                                                                     
+                                                                                   Alex Furtado Vilela Costa
     
     
     
