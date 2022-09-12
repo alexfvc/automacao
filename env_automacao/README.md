@@ -1,4 +1,4 @@
-# automacao
+# Automação
 Repositório para lancamento automático de dados no diario escolar. diario escolar usado para lancamento de aulas lecionadas e notas
 
     www.diarioescolardigital.educacao.mg.gov.br/
